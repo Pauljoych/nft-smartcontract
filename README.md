@@ -10,7 +10,7 @@ TBA
 
 ## Docs
 
-TBA
+Contract [Documentation]([@pauljoych](https://github.com/PaulJoych/nft-smartcontract/blob/main/DOCUMENTATION.md)) 
 
 <!-- Installation -->
 
