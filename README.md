@@ -6,10 +6,6 @@ TBA
 
 **Pauljoych is not liable for any outcomes as a result of using this contract.** DYOR.
 
-<!-- Docs -->
-
-## Docs
-
 [Documentation](https://github.com/PaulJoych/nft-smartcontract/blob/main/DOCUMENTATION.md) 
 
 <!-- Installation -->
